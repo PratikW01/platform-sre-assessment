@@ -15,4 +15,3 @@ This repository contains solutions for:
 ## Rounds
 - [Round 1 – User Metadata Service](./round-1-user-metadata-service)
 - [Round 2 – Internal Developer Platform](./round-2-idp-platform)
-- [Round 3 - Kubernates deployement]
